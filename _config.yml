@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ko_KR
-title: DRMBSGN-AI 
+title: DRMBSGN-AI 테스트입니다
 email: sb991016@gmail.com
 description: HELLO WORLD
 baseurl: "" # the optional subpath of your site, e.g. "/blog"
