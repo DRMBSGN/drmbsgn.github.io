@@ -1,6 +1,4 @@
-layout: home
-paginate: true
-
 ---
 layout: home
+paginate: true
 ---
