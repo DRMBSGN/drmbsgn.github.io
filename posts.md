@@ -1,5 +1,5 @@
 ---
-title: 글 
+title: 글
 layout: posts
 permalink: /posts/
 entries_layout: list
