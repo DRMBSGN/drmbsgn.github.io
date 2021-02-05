@@ -1,5 +1,5 @@
 ---
-title: 글목록
+title: Post Archive
 
 layout: posts
 permalink: /posts/
