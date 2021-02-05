@@ -1,5 +1,5 @@
 ---
-title: 카테고리
+title: Category Archive
 layout: categories
 permalink: /categories/
 ---
