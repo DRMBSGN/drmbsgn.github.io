@@ -1,5 +1,5 @@
 ---
-title: "안녕하세요"
+title: "About"
 layout: about
 ---
 
