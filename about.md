@@ -1,14 +1,12 @@
 ---
-title: "About"
+title: "안녕하세요"
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+인공지능 / 운영체제 / NVMe SSD와 관련된 내용을 다루는 블로그입니다.
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+포스팅을 옮기는 중이라 블로그가 많이 난잡합니다.
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+네이버 블로그 :https://blog.naver.com/sb1016/222229150256
+
+이메일 : sb1016@seoultech.ac.kr
