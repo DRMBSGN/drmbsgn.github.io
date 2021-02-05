@@ -27,7 +27,8 @@ t:
 # Google Fonts
 google_fonts:
   - name: 'Fira Sans'
-    weights: "400,400i,600,600i"
+    weights: "200,300i,400,500i"
+    size: 
   - name: "Noto Serif KR"
     weights: "400,400i,600,600i"
 
