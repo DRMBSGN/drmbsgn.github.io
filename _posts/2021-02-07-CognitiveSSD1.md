@@ -1,3 +1,14 @@
+---
+title: "[논문]CognitiveSSD 보충"
+categories:
+-	SSD
+tags:
+-	CognitiveSSD
+-	SSD
+-	content-based_data_retrival_system
+last_modified_at: 2021-02-07T14:23:00-05:00
+---
+
 
 1.1 Cognitive SSD 논문 리뷰
 ---------------------------
@@ -55,14 +66,4 @@ $$L*{compute} = \frac{OP*{compute}}{OP*{PE}} $$ $$ = \frac{2 \times K_c \times K
 2 앞으로 무엇을 공부할 것인가!
 ------------------------------
 
----
-layout: post
-title: "[논문]CognitiveSSD 보충"
-categories:
--	SSD
-tags:
--	CognitiveSSD
--	SSD
--	content-based_data_retrival_system
-last_modified_at: 2021-02-07T14:23:00-05:00
----
+
