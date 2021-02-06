@@ -19,8 +19,8 @@ tags:
 last_modified_at: 2017-03-09T13:01:27-05:00
 ---
 
-1.1 Cognitive SSD 논문 리뷰
----------------------------
+## 1.1 Cognitive SSD 논문 리뷰
+
 
 Cognitive SSD와 관련해서 정리해놓은 포스팅이다. 시간이 있을때 Github 블로그로 옮길 예정이다.
 
@@ -30,8 +30,8 @@ Cognitive SSD와 관련해서 정리해놓은 포스팅이다. 시간이 있을�
 
 이번 시간에는 위 부분들에 대해 보충 공부를 해보고자 한다.
 
-1.2 Bandwidth 분석
-------------------
+## 1.2 Bandwidth 분석
+
 
 논문에서는 NAND Flash의 내부 Bandwidth가 DLG-x 가속기에서 Deep neural network를 돌리는데 필요한 정도를 만족하는지 파악하고자 한다.
 
@@ -69,10 +69,8 @@ $$L*{compute} = \frac{OP*{compute}}{OP*{PE}} $$ $$ = \frac{2 \times K_c \times K
 
 <small>OP compute : 컨볼루션 레이어에서 연산횟수</small><small>OP PE: DLG-x 가 한 주기당 몇번의 연산을 하는. 성능</small>
 
-1.3 NSG(Navigating Spreading-out Graph)
----------------------------------------
+## 1.3 NSG(Navigating Spreading-out Graph)
 
-2 앞으로 무엇을 공부할 것인가!
-------------------------------
+## 2 앞으로 무엇을 공부할 것인가!
 
 
