@@ -18,6 +18,8 @@ Cognitive SSD와 관련해서 정리해놓은 포스팅이다. 시간이 있을�
 
 포스팅 중간에 보면 알겠지만, *Bandwidth 분석*, *NSG(Navigating Spreading-out Graph)* 에 대한 설명이 다소 부족하다.
 
+이번 시간에는 위 부분들에 대해 보충 공부를 해보고자 한다.
+
 ## 1.2 Bandwidth 분석
 
 
