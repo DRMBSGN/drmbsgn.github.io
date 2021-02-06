@@ -1,4 +1,5 @@
 ---
+layout:post
 title: "[논문]CognitiveSSD 보충"
 categories:
   - SSD
