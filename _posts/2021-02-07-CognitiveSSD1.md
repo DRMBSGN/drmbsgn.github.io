@@ -3,12 +3,21 @@ title: "[논문]CognitiveSSD 보충"
 categories:
   -SSD
 tags:
-  -	CognitiveSSD
+  - CognitiveSSD
   -	SSD
   -	content-based_data_retrival_system
 last_modified_at: 2021-02-07T14:23:00-05:00
 ---
-
+---
+title: "Post: Modified Date"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
+last_modified_at: 2017-03-09T13:01:27-05:00
+---
 
 1.1 Cognitive SSD 논문 리뷰
 ---------------------------
