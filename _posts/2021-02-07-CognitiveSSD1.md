@@ -6,6 +6,7 @@ tags:
 - ssd
 last_modified_at: 2021-02-07T14:23:00-05:00
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
 
 ## 1.1 Cognitive SSD 논문 리뷰
 
