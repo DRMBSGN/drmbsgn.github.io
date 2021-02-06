@@ -22,7 +22,11 @@ Cognitive SSD와 관련해서 정리해놓은 포스팅이다. 시간이 있을�
 
 ## 1.2 Bandwidth 분석
 
+논문에서는 NAND Flash의 내부 Bandwidth가 DLG-x 가속기에서 Deep neural network를 돌리는데 필요한 정도를 만족하는지 파악하고자 한다.
 
+DLG-x와 Flash controller는 같은 frequency에 의해 돌아간다고 가정하며,
+
+DLG-x의 NPE unit(뉴럴 네트워크 관련 프로세싱을 하는 유닛)은 N_PE PEs를 포함하고 있다.
 
 
 ## 1.3 NSG(Navigating Spreading-out Graph) 
