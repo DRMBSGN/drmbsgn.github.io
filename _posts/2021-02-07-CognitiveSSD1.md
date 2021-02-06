@@ -21,6 +21,9 @@ Cognitive SSD와 관련해서 정리해놓은 포스팅이다. 시간이 있을�
 
 ## 1.2 Bandwidth 분석
 
+{% katex %}
+c = \pm\sqrt{a^2 + b^2}
+{% endkatex %}
 
 논문에서는 NAND Flash의 내부 Bandwidth가 DLG-x 가속기에서 Deep neural network를 돌리는데 필요한 정도를 만족하는지 파악하고자 한다.
 
