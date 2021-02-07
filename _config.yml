@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ko_KR
-title: DRMBSGN-AI 
+title: DRMBSGN-AI
 email: sb991016@gmail.com
 description: HELLO WORLD
 baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: "https://drmbsgn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: 
+author:
   name: subin
   twitter:
   picture:
@@ -43,7 +43,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-katex
+
 feed:
   path: atom.xml
 
