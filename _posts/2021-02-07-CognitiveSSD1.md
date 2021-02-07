@@ -1,11 +1,12 @@
 ---
 title: "[논문]CognitiveSSD 보충"
 categories:
--	SSD
+  -	SSD
 tags:
--	ssd
+  -	ssd
 last_modified_at: 2021-02-07T14:23:00-05:00
 ---
+
 
 1.1 Cognitive SSD 논문 리뷰
 ---------------------------
