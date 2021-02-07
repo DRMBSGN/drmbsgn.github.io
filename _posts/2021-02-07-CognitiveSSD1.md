@@ -26,7 +26,7 @@ Cognitive SSD와 관련해서 정리해놓은 포스팅이다. 시간이 있을�
 
 DLG-x와 Flash controller는 같은 frequency에 의해 돌아간다고 가정하며,
 
-DLG-x의 NPE unit(뉴럴 네트워크 관련 프로세싱을 하는 유닛)은 N_PE PEs를 포함하고 있다.
+DLG-x의 NPE unit(뉴럴 네트워크 관련 프로세싱을 하는 유닛)은 $$N_{PE}$$ $$ PEs$$ 를 포함하고 있다.
 
 이러한 NandFlash 하나의 채널 Bandwidth를
 $${BW}_{flash}$$
@@ -34,15 +34,18 @@ $${BW}_{flash}$$
 
 만약 이 SSD에 M개의 채널이 달려있다면, Bandwidth는 다음과 같을 것이다
 
+<p>
 $$ BW^m_{flash} = M \times BW_{flash} $$
 
-(c는 컬러 RGB channel, h는 height, w는 width)
+<center>(c는 컬러 RGB channel, h는 height, w는 width)</center>  </p>
 
-자 여기에서 Convolution layer에 곱해지는 input ( 즉, 인풋 이미지나 전 단계의 feature map)의 크기가 다음과 같다고 해보자.
-$$ I_C \times I_h \times I_w $$
 
-그리고 여기에서 추출되는 feature map(이미지의 특징을 나타내는 feature map)의 차원은 다음과 같다고 해보자.
-$$ O_C \times O_h \times O_w $$
+자 여기에서 Convolution layer에 곱해지는 input ( 즉, 인풋 이미지나 전 단계의 feature map)의 크기가  
+$$ I_C \times I_h \times I_w $$ 라고 해보자.
+
+그리고 여기에서 추출되는 feature map(이미지의 특징을 나타내는 feature map)의 차원은 $$ O_C \times O_h \times O_w $$ 라 해보자.
+
+
 
 이 연산에서 사용되는 커널의 차원은 다음과 같다고 하자.
 
@@ -73,6 +76,8 @@ $$ = \frac{2 \times K_c \times K_h \times K_w \times O_h \times O_w }{2\times N_
 <small>OP compute : 컨볼루션 레이어에서 연산횟수</small>
 
 <small>OP PE: DLG-x 가 한 주기당 몇번의 연산을 하는. 성능</small>
+
+
 
 1.3 NSG(Navigating Spreading-out Graph)
 ---------------------------------------

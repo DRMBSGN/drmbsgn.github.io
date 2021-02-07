@@ -6,7 +6,7 @@
 $small: 320px !default;
 $medium: 768px !default;
 $large: 1024px !default;
-$xlarge: 1280px !default;
+$xlarge: 2000px !default;
 
 /* Fluid type */
 $base-font-size: 16px !default;
@@ -17,7 +17,7 @@ $max-font-size: 18px !default;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
-$modular-scale-2: 1.296 !default; /* large */
+$modular-scale-2: 1.23 !default; /* large */
 /* Heading 1 */
 $h1-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 *
   $modular-scale-1 * $base-font-size !default;
@@ -42,10 +42,10 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
-$base-font-family: "Fira Sans", sans-serif !default;
+$base-font-family: "Noto Serif KR",  serif !default;
 /* Other font families */
 $headline-font-family: $base-font-family !default;
-$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
+$monospace-font-family: Menlo, Consolas, Monaco, "Noto Serif KR",  serif
   monospace !default;
 
 /* Colors */
@@ -79,7 +79,7 @@ $base0f: #c79595 !default;
 $main-max-width: $xlarge !default;
 
 /* Width of the sidebar */
-$sidebar-width: $small !default;
+$sidebar-width: $small*1.3 !default;
 
 /* Background color of the sidebar */
 $sidebar-background-color: #fff !default;
@@ -96,7 +96,7 @@ $global-transition: all 0.4s ease !default;
 /* Navicon */
 $navicon-width: 1.75em !default;
 $navicon-height: 0.25em !default;
-$navicon-duration: 0.5s !default;
+$navicon-duration: 0.1s !default;
 $navicon-toggled-size: 1 !default;
 $navicon-nav-bg-close: transparent !default;
 $navicon-nav-bg-open: transparent !default;
