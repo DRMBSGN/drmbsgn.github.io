@@ -1,5 +1,5 @@
 ---
-title: "[논문]CognitiveSSD 보충"
+title: "[논문 /수정중]CognitiveSSD 보충"
 categories:
  - SSD
 tags:
