@@ -28,9 +28,9 @@ GitHub가 코드들의 버전관리를 유용하게 해주는 플랫폼인건 �
 자 그럼 시작해보자
 
 __목차__
-- [Github란?](#github란?)
+- [Github란](#github란)
 - [GitHub 설치](#github-설치)
-- [GitPage란?](#gitpage-란-)
+- [GitPage란](#gitpage란)
 - [Jekyll Theme 사용하기](#jekyll-theme-사용하기)
 - [루비 활용하기](#루비-활용하기)
 - [블로그 작성 팁](#블로그-작성-팁)
@@ -42,7 +42,7 @@ __목차__
 <br/>
 <br/>
 
-## Github란?
+## Github란
 
 + __Github__ : Git을 사용하는 프로젝트를 지원하는 웹호스팅 서비스, Git을 업로드할 수 있는 웹사이트, 개발자들의 버전제어 및 공동 작업을 위한 플랫폼
 
@@ -307,7 +307,7 @@ $git init
 <br/>
 <br/>
 
-## GitPage 란?
+## GitPage란
 
 GitHub page는 Github 저장소의 내용을 웹페이지로 만들어주는 서비스이다.  
 블로그를 위한 저장소를 만든 뒤, Setting 메뉴에서 스크롤을 내려보면 아래와 같은 화면을 확인할 수 있다
