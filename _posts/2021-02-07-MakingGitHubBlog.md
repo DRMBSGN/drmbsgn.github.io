@@ -28,9 +28,9 @@ GitHub가 코드들의 버전관리를 유용하게 해주는 플랫폼인건 �
 자 그럼 시작해보자
 
 __목차__
-- [Github란?](#Github란?)
+- [Github란?](#github란?)
 - [GitHub 설치](#github-설치)
-- [GitPage란?](#gitpage-란?)
+- [GitPage란?](#gitpage-란-)
 - [Jekyll Theme 사용하기](#jekyll-theme-사용하기)
 - [루비 활용하기](#루비-활용하기)
 - [블로그 작성 팁](#블로그-작성-팁)
